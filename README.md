@@ -1,8 +1,8 @@
-# Insider Champions League
+# Champions League
 
-This is a Laravel project for Insider Champions League. You can change result strategy in `.env` file.
+This is a Laravel project for Champions League. You can change result strategy in `.env` file.
 
-![Test Status](https://github.com/ozerozdas/insider-champions-league/actions/workflows/testing.yml/badge.svg?branch=main)
+![Test Status](https://github.com/ozerozdas/champions-league/actions/workflows/testing.yml/badge.svg?branch=main)
 
 - [Installation](#installation)
 - [License](#license)
@@ -11,8 +11,8 @@ This is a Laravel project for Insider Champions League. You can change result st
 ## Installation
 
 ```bash
-git clone https://github.com/ozerozdas/insider-champions-league.git
-cd insider-champions-league
+git clone https://github.com/ozerozdas/champions-league.git
+cd champions-league
 cp .env.example .env
 composer install
 ./vendor/bin/sail up -d
